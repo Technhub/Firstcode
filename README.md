@@ -10,7 +10,8 @@ To add a new function to the project and introduce it to the team's develop bran
 $ git checkout -b new-feature
 
 
-Make changes to the code*/
+
+Make changes to the code
 
 
 $ git add .
