@@ -4,11 +4,15 @@ $ git clone
 
 $ git checkout develop
 
+
 To add a new function to the project and introduce it to the team's develop branch, the following commands can be used:
 
 $ git checkout -b new-feature
 
+
 Make changes to the code*/
+
+
 $ git add .
 
 $ git commit -m "Added new feature"
